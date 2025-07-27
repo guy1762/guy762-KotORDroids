@@ -411,6 +411,7 @@
 		  <li>KotORDroidArmorT2_weak</li>
 		  <li>KotORDroidWeapon_hvy_any</li>
 		  <li>KotORDroidShield_weak</li>
+		  <li>SWCPSpecificDroidTech_HK47Sensor</li>
 		</apparelTags>
 		<apparelRequired>
 		   <li>guy762_DroidSensor_hk</li>	
@@ -458,6 +459,9 @@
 		<apparelTags>
 		  <li>KotORDroidArmorT1_weak</li>
 		  <li>KotORDroidWeapon_light_any</li>
+		  <li>SWKotORSpecificDroidWeapon_ShockArm</li>
+		  <li>SWKotORSpecificDroidGadget_T3M4RenewableShield</li>
+		  <li>SWKotORSpecificDroidTech_T3M4RepairHardware</li>
 		</apparelTags>
 		<apparelRequired>
 		   <li>guy762_DroidHardware_regen</li>

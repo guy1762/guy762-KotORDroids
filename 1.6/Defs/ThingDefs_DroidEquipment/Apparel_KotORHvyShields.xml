@@ -34,6 +34,7 @@
     <apparel>
 	  <tags>
 		<li>KotORHvyShield_weak</li>
+		<li>SWKotORSpecificDroidGadget_BasicEnergyHeavyShield</li>
 	  </tags>
     </apparel>
 	<tradeTags>
@@ -84,6 +85,7 @@
     <apparel>
 	  <tags>
 		<li>KotORDroidShield_miningdroid</li>
+		<li>SWKotORSpecificDroidGadget_ThermalHeavyShield</li>
 	  </tags>
     </apparel>
 	<tradeTags>
@@ -148,6 +150,7 @@
     <apparel>
 	  <tags>
 		<li>KotORHvyShield_weak</li>
+		<li>SWKotORSpecificDroidGadget_EnvironmentalHeavyShield</li>
 	  </tags>
     </apparel>
 	<tradeTags>
@@ -200,6 +203,7 @@
 	  <tags>
 		<li>KotORHvyShield_civilian</li>
 		<li>KotORHvyShield_melee</li>
+		<li>SWKotORSpecificDroidGadget_MeleeHeavyShield</li>
 	  </tags>
     </apparel>
 	<tradeTags>
@@ -258,6 +262,7 @@
     <apparel>
 	  <tags>
 		<li>KotORHvyShield_mid</li>
+		<li>SWKotORSpecificDroidGadget_EchaniEnergyHeavyShield</li>
 	  </tags>
     </apparel>
 	<tradeTags>
@@ -308,6 +313,7 @@
     <apparel>
 	  <tags>
 		<li>KotORHvyShield_mid</li>
+		<li>SWKotORSpecificDroidGadget_BaragwinHeavyShield</li>
 	  </tags>
     </apparel>
 	<tradeTags>
@@ -378,6 +384,7 @@
     <apparel>
 	  <tags>
 		<li>KotORHvyShield_strong</li>
+		<li>SWKotORSpecificDroidGadget_IonHeavyShield</li>
 	  </tags>
     </apparel>
 	<tradeTags>
@@ -454,6 +461,7 @@
     <apparel>
 	  <tags>
 		<li>KotORHvyShield_deflector</li>
+		<li>SWKotORSpecificDroidGadget_DeflectorHeavyShield</li>
 	  </tags>
     </apparel>
 	<tradeTags>
@@ -508,6 +516,7 @@
     <apparel>
 	  <tags>
 		<li>KotORDroidShield_balmorran</li>
+		<li>SWKotORSpecificDroidGadget_BalmorranHeavyShield</li>
 	  </tags>
     </apparel>
 	<tradeTags>
@@ -558,6 +567,7 @@
     <apparel>
 	  <tags>
 		<li>SE_starforgedroid</li>
+		<li>SWKotORSpecificDroidGadget_StarForgeHeavyShield</li>
 	  </tags>
     </apparel>
 	<tradeTags>

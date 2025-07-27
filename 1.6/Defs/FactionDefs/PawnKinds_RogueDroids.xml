@@ -175,6 +175,7 @@
 		  <li>KotORDroidArmorT1_stuffable</li>
 		  <li>KotORDroidUpgrade_combat</li>
 		  <li>KotORDroidShield_mid</li>
+		  <li>SWKotORSpecificDroidWeapon_KoltoSpray</li>
 		</apparelTags>
 		<apparelRequired>
 		   <li>guy762_DroidGadget_kolto</li>
@@ -199,6 +200,8 @@
 		<apparelTags>
 		  <li>KotORDroidArmorT3_stuffable</li>
 		  <li>KotORDroidArmorT3_miningdroid</li>
+		  <li>SWKotORSpecificDroidWeapon_FirefoamCannon</li>
+		  <li>SWKotORSpecificDroidGadget_ThermalHeavyShield</li>
 		</apparelTags>
 		<apparelRequired>
 		   <li>guy762_HvyShield_thermal</li>
@@ -239,6 +242,8 @@
 		  <li>KotORDroidArmorT2_miningdroid</li>
 		  <li>KotORDroidShield_miningdroid</li>
 		  <li>KotORLgtCannon_miningdroid</li>
+		  <li>SWKotORSpecificDroidWeapon_MiningLaserCannon</li>
+		  <li>SWCPSpecificDroidArmor_EnvironmentMedium</li>
 		</apparelTags>
 		<apparelRequired>
 		   <li>guy762_DroidArmorMid_env</li>
@@ -282,6 +287,9 @@
 		  <li>KotORDroidArmorT3_stuffable</li>
 		  <li>KotORDroidArmorT3_miningdroid</li>
 		  <li>KotORDroidShield_miningdroid</li>
+		  <li>SWKotORSpecificDroidWeapon_MiningLaserCannon</li>
+		  <li>SWKotORSpecificDroidWeapon_SonicCannon</li>
+		  <li>SWCPSpecificDroidArmor_EnvironmentHeavy</li>
 		</apparelTags>
 		<apparelRequired>
 		   <li>guy762_LgtCannon_mininglaser</li>
@@ -328,6 +336,8 @@
 		  <li>KotORDroidArmorT1_stuffable</li>
 		  <li>KotORDroidUpgrade_combat</li>
 		  <li>KotORDroidShield_weak</li>
+		  <li>SWKotORSpecificDroidWeapon_HoldoutBlaster</li>
+		  <li>SWCPSpecificDroidArmor_CzerkaLight</li>
 		</apparelTags>
 		<apparelRequired>
 		   <li>guy762_DroidWeapon_holdout</li>
@@ -370,6 +380,8 @@
 		  <li>KotORDroidArmorT1_stuffable</li>
 		  <li>KotORDroidUpgrade_combat</li>
 		  <li>KotORDroidShield_weak</li>
+		  <li>SWKotORSpecificDroidWeapon_HoldoutBlaster</li>
+		  <li>SWCPSpecificDroidArmor_CzerkaLight</li>
 		</apparelTags>
 		<apparelRequired>
 		   <li>guy762_DroidWeapon_holdout</li>
@@ -413,6 +425,9 @@
 		  <li>KotORDroidArmorT1_stuffable</li>
 		  <li>KotORDroidUpgrade_combat</li>
 		  <li>KotORDroidWeapon_battledroid</li>
+		  <li>SWKotORSpecificDroidWeapon_Railgun</li>
+		  <li>SWKotORSpecificDroidGadget_2minDroidStealthDevice</li>
+		  <li>SWCPSpecificDroidArmor_AgriniumLight</li>
 		</apparelTags>
 		<apparelRequired>
 		   <li>guy762_DroidStealthDevice</li>
@@ -456,6 +471,9 @@
 		  <li>KotORDroidArmorT1_stuffable</li>
 		  <li>KotORDroidUpgrade_combat</li>
 		  <li>KotORDroidWeapon_battledroid</li>
+		  <li>SWKotORSpecificDroidWeapon_SonicBlaster</li>
+		  <li>SWKotORSpecificDroidGadget_2minDroidStealthDevice</li>
+		  <li>SWCPSpecificDroidArmor_AgriniumLight</li>
 		</apparelTags>
 		<apparelRequired>
 		   <li>guy762_DroidStealthDevice</li>
@@ -504,6 +522,8 @@
 		  <li>KotORDroidUpgrade_combat</li>
 		  <li>KotORDroidShield_weak</li>
 		  <li>KotORUtility_weakgrenade</li>
+		  <li>SWCPSpecificApparelItem_DoubleBandolier</li>
+		  <li>SWCPSpecificDroidArmor_CzerkaLight</li>
 		</apparelTags>
 		<apparelRequired>
 		   <li>guy762_Accessory_bandolierA</li>
@@ -554,6 +574,8 @@
 		  <li>KotORDroidUpgrade_combat</li>
 		  <li>KotORDroidShield_mid</li>
 		  <li>KotORDroidWeapon_battledroid</li>
+		  <li>SWCPSpecificDroidArmor_CzerkaMedium</li>
+		  <li>guy762PatchedTag_Cape</li>
 		</apparelTags>
 		<apparelRequired>
 		   <li>Apparel_Cape</li>
@@ -619,6 +641,8 @@
 		  <li>KotORDroidShield_melee</li>
 		  <li>KotORDroidShield_strong</li>
 		  <li>KotORDroidWeapon_battledroid</li>
+		  <li>SWCPSpecificDroidArmor_QuadraniumMedium</li>
+		  <li>guy762PatchedTag_Cape</li>
 		</apparelTags>
 		<apparelRequired>
 		   <li>Apparel_Cape</li>
@@ -677,6 +701,7 @@
 		  <li>KotORDroidShield_weak</li>
 		  <li>KotORUtility_weakgrenade</li>
 		  <li>KotORDroidWeapon_explosive</li>
+		  <li>SWCPSpecificDroidArmor_CzerkaMedium</li>
 		</apparelTags>
 		<apparelRequired>
 		   <li>guy762_DroidArmorMid_czerka</li>
@@ -725,6 +750,8 @@
 		  <li>KotORDroidUpgrade_combat</li>
 		  <li>KotORHvyShield_weak</li>
 		  <li>KotORDroidWeapon_wardroid</li>
+		  <li>SWKotORSpecificDroidWeapon_TriShot</li>
+		  <li>SWCPSpecificDroidArmor_CzerkaHeavy</li>
 		</apparelTags>
 		<apparelRequired>
 		   <li>guy762_DroidWeapon_trishot</li>
@@ -784,6 +811,8 @@
 		  <li>KotORHvyShield_mid</li>
 		  <li>KotORLgtCannon_artillery</li>
 		  <li>KotORLgtCannon_antipersonnel</li>
+		  <li>SWKotORSpecificDroidWeapon_HeavyRepeaterCannon</li>
+		  <li>SWCPSpecificDroidArmor_CzerkaHeavy</li>
 		</apparelTags>
 		<apparelRequired>
 		   <li>guy762_LgtCannon_hvyrep</li>
@@ -844,6 +873,7 @@
 		  <li>KotORDroidWeapon_asndroid</li>
 		  <li>KotORUtility_stronggrenade</li>
 		  <li>KotORDroidShield_strong</li>
+		  <li>SWCPSpecificDroidArmor_DeshMedium</li>
 		</apparelTags>
 		<apparelRequired>
 		   <li>guy762_DroidArmorMid_desh</li>
@@ -921,6 +951,8 @@
 		  <li>KotORDroidWeapon_asndroid</li>
 		  <li>KotORUtility_stronggrenade</li>
 		  <li>KotORAccessory_bandolier</li>
+		  <li>SWCPSpecificDroidArmor_QuadraniumMedium</li>
+		  <li>SWKotORSpecificDroidGadget_AdvDeflectorShield</li>
 		</apparelTags>
 		<apparelRequired Inherit="False">
 		   <li>guy762_DroidArmorMid_quadranium</li>

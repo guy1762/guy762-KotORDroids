@@ -21,6 +21,7 @@
 	  <tags>
 		<li>KotORDroidShield_t1</li>
 		<li>KotORDroidShield_weak</li>
+		<li>SWKotORSpecificDroidGadget_MarkIEnergyShield</li>
 	  </tags>
     </apparel>
 	<tradeTags>
@@ -72,6 +73,7 @@
 	  <tags>
 		<li>KotORDroidShield_t1</li>
 		<li>KotORDroidShield_weak</li>
+		<li>SWKotORSpecificDroidGadget_MarkIEnvironmentShield</li>
 	  </tags>
     </apparel>
 	<tradeTags>
@@ -125,6 +127,7 @@
 		<li>KotORDroidShield_t1</li>
 		<li>KotORDroidShield_melee</li>
 		<li>SaV_DroidShield_gladiator</li>
+		<li>SWKotORSpecificDroidGadget_MeleeShield</li>
 	  </tags>
     </apparel>
 	<tradeTags>
@@ -180,6 +183,7 @@
 	  <tags>
 		<li>KotORDroidShield_t2</li>
 		<li>KotORDroidShield_mid</li>
+		<li>SWKotORSpecificDroidGadget_MarkIIEnergyShield</li>
 	  </tags>
     </apparel>
 	<tradeTags>
@@ -231,6 +235,7 @@
 	  <tags>
 		<li>KotORDroidShield_t2</li>
 		<li>KotORDroidShield_mid</li>
+		<li>SWKotORSpecificDroidGadget_MarkIIEnvironmentShield</li>
 	  </tags>
     </apparel>
 	<tradeTags>
@@ -284,6 +289,7 @@
 		<li>KotORDroidShield_t2</li>
 		<li>KotORDroidShield_deflector</li>
 		<li>SaV_DroidShield_gladiator</li>
+		<li>SWKotORSpecificDroidGadget_DeflectorShield</li>
 	  </tags>
     </apparel>
 	<tradeTags>
@@ -343,6 +349,7 @@
 	  <tags>
 		<li>KotORDroidShield_t3</li>
 		<li>KotORDroidShield_strong</li>
+		<li>SWKotORSpecificDroidGadget_MarkIIIEnergyShield</li>
 	  </tags>
     </apparel>
 	<tradeTags>
@@ -394,6 +401,7 @@
 	  <tags>
 		<li>KotORDroidShield_t3</li>
 		<li>KotORDroidShield_advdeflector</li>
+		<li>SWKotORSpecificDroidGadget_AdvDeflectorShield</li>
 	  </tags>
     </apparel>
 	<tradeTags>
@@ -450,6 +458,7 @@
 	  <tags>
 		<li>KotORDroidShield_rare</li>
 		<li>KotORDroidShield_t3</li>
+		<li>SWKotORSpecificDroidGadget_IonShield</li>
 	  </tags>
     </apparel>
 	<tradeTags>
@@ -500,6 +509,7 @@
 	  <tags>
 		<li>KotORDroidShield_rare</li>
 		<li>KotORDroidShield_t3</li>
+		<li>SWKotORSpecificDroidGadget_BaragwinEnergyShield</li>
 	  </tags>
     </apparel>
 	<tradeTags>
@@ -582,6 +592,7 @@
     <apparel>
 	  <tags>
 		<li>KotORDroidUpgrade_T3M4</li>
+		<li>SWKotORSpecificDroidGadget_T3M4RenewableShield</li>
 	  </tags>
     </apparel>
 	<tradeTags>
