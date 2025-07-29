@@ -18,7 +18,7 @@
         <costList>
             <Steel>80</Steel>
             <Plasteel>20</Plasteel>
-            <ABF_Thing_Synstruct_LubricantPack>1</ABF_Thing_Synstruct_LubricantPack>
+            <!-- <ABF_Thing_Synstruct_LubricantPack>1</ABF_Thing_Synstruct_LubricantPack> -->
             <ComponentIndustrial>10</ComponentIndustrial>
             <ComponentSpacer>1</ComponentSpacer>
         </costList>
@@ -47,7 +47,7 @@
             <Steel>100</Steel>
             <Plasteel>40</Plasteel>
 			<KOTOR_UltraComponent>1</KOTOR_UltraComponent>
-            <ABF_Thing_Synstruct_LubricantPack>2</ABF_Thing_Synstruct_LubricantPack>
+            <!-- <ABF_Thing_Synstruct_LubricantPack>2</ABF_Thing_Synstruct_LubricantPack> -->
             <ComponentIndustrial>14</ComponentIndustrial>
             <ComponentSpacer>1</ComponentSpacer>
         </costList>
@@ -78,7 +78,7 @@
             <Steel>40</Steel>
             <Plasteel>60</Plasteel>
 			<KOTOR_UltraComponent>2</KOTOR_UltraComponent>
-            <ABF_Thing_Synstruct_CoolantPack>1</ABF_Thing_Synstruct_CoolantPack>
+            <!-- <ABF_Thing_Synstruct_CoolantPack>1</ABF_Thing_Synstruct_CoolantPack> -->
             <ComponentIndustrial>14</ComponentIndustrial>
             <ComponentSpacer>1</ComponentSpacer>
         </costList>
@@ -109,7 +109,7 @@
             <Steel>100</Steel>
             <Plasteel>60</Plasteel>
 			<KOTOR_UltraComponent>1</KOTOR_UltraComponent>
-            <ABF_Thing_Synstruct_LubricantPack>2</ABF_Thing_Synstruct_LubricantPack>
+            <!-- <ABF_Thing_Synstruct_LubricantPack>2</ABF_Thing_Synstruct_LubricantPack> -->
             <ComponentIndustrial>16</ComponentIndustrial>
             <ComponentSpacer>1</ComponentSpacer>
         </costList>
@@ -156,8 +156,8 @@
         <costList>
             <Steel>80</Steel>
             <Plasteel>50</Plasteel>
-            <ABF_Thing_Synstruct_CoolantPack>1</ABF_Thing_Synstruct_CoolantPack>
-            <ABF_Thing_Synstruct_LubricantPack>1</ABF_Thing_Synstruct_LubricantPack>
+            <!-- <ABF_Thing_Synstruct_CoolantPack>1</ABF_Thing_Synstruct_CoolantPack> -->
+            <!-- <ABF_Thing_Synstruct_LubricantPack>1</ABF_Thing_Synstruct_LubricantPack> -->
             <KOTOR_UltraComponent>2</KOTOR_UltraComponent>
             <ComponentIndustrial>16</ComponentIndustrial>
             <ComponentSpacer>4</ComponentSpacer>
@@ -192,8 +192,8 @@
         <costList>
             <Steel>100</Steel>
             <Plasteel>50</Plasteel>
-            <ABF_Thing_Synstruct_CoolantPack>1</ABF_Thing_Synstruct_CoolantPack>
-            <ABF_Thing_Synstruct_LubricantPack>2</ABF_Thing_Synstruct_LubricantPack>
+            <!-- <ABF_Thing_Synstruct_CoolantPack>1</ABF_Thing_Synstruct_CoolantPack> -->
+            <!-- <ABF_Thing_Synstruct_LubricantPack>2</ABF_Thing_Synstruct_LubricantPack> -->
             <KOTOR_UltraComponent>1</KOTOR_UltraComponent>
             <ComponentIndustrial>16</ComponentIndustrial>
             <ComponentSpacer>3</ComponentSpacer>
@@ -227,7 +227,7 @@
             <Steel>100</Steel>
             <Plasteel>40</Plasteel>
 			<KOTOR_UltraComponent>1</KOTOR_UltraComponent>
-            <ABF_Thing_Synstruct_LubricantPack>1</ABF_Thing_Synstruct_LubricantPack>
+            <!-- <ABF_Thing_Synstruct_LubricantPack>1</ABF_Thing_Synstruct_LubricantPack> -->
             <ComponentIndustrial>10</ComponentIndustrial>
             <ComponentSpacer>2</ComponentSpacer>
         </costList>
@@ -270,8 +270,8 @@
         <costList>
             <Steel>140</Steel>
             <Plasteel>70</Plasteel>
-            <ABF_Thing_Synstruct_CoolantPack>2</ABF_Thing_Synstruct_CoolantPack>
-            <ABF_Thing_Synstruct_LubricantPack>1</ABF_Thing_Synstruct_LubricantPack>
+            <!-- <ABF_Thing_Synstruct_CoolantPack>2</ABF_Thing_Synstruct_CoolantPack> -->
+            <!-- <ABF_Thing_Synstruct_LubricantPack>1</ABF_Thing_Synstruct_LubricantPack> -->
             <KOTOR_UltraComponent>2</KOTOR_UltraComponent>
             <ComponentIndustrial>16</ComponentIndustrial>
             <ComponentSpacer>2</ComponentSpacer>
@@ -311,8 +311,8 @@
         <costList>
             <Steel>160</Steel>
             <Plasteel>80</Plasteel>
-            <ABF_Thing_Synstruct_CoolantPack>2</ABF_Thing_Synstruct_CoolantPack>
-            <ABF_Thing_Synstruct_LubricantPack>2</ABF_Thing_Synstruct_LubricantPack>
+            <!-- <ABF_Thing_Synstruct_CoolantPack>2</ABF_Thing_Synstruct_CoolantPack> -->
+            <!-- <ABF_Thing_Synstruct_LubricantPack>2</ABF_Thing_Synstruct_LubricantPack> -->
             <KOTOR_UltraComponent>2</KOTOR_UltraComponent>
             <ComponentIndustrial>16</ComponentIndustrial>
             <ComponentSpacer>1</ComponentSpacer>
@@ -345,8 +345,8 @@
         <costList>
             <KOTOR_AlloyDurasteel>120</KOTOR_AlloyDurasteel>
             <Plasteel>100</Plasteel>
-            <ABF_Thing_Synstruct_CoolantPack>3</ABF_Thing_Synstruct_CoolantPack>
-            <ABF_Thing_Synstruct_LubricantPack>2</ABF_Thing_Synstruct_LubricantPack>
+            <!-- <ABF_Thing_Synstruct_CoolantPack>3</ABF_Thing_Synstruct_CoolantPack> -->
+            <!-- <ABF_Thing_Synstruct_LubricantPack>2</ABF_Thing_Synstruct_LubricantPack> -->
             <KOTOR_UltraComponent>4</KOTOR_UltraComponent>
             <ComponentIndustrial>16</ComponentIndustrial>
             <ComponentSpacer>1</ComponentSpacer>
@@ -385,8 +385,8 @@
         <costList>
             <Plasteel>180</Plasteel>
             <KOTOR_AlloyDurasteel>80</KOTOR_AlloyDurasteel>
-            <ABF_Thing_Synstruct_CoolantPack>3</ABF_Thing_Synstruct_CoolantPack>
-            <ABF_Thing_Synstruct_LubricantPack>4</ABF_Thing_Synstruct_LubricantPack>
+            <!-- <ABF_Thing_Synstruct_CoolantPack>3</ABF_Thing_Synstruct_CoolantPack> -->
+            <!-- <ABF_Thing_Synstruct_LubricantPack>4</ABF_Thing_Synstruct_LubricantPack> -->
             <KOTOR_UltraComponent>3</KOTOR_UltraComponent>
             <ComponentIndustrial>20</ComponentIndustrial>
             <ComponentSpacer>8</ComponentSpacer>
@@ -419,8 +419,8 @@
         <costList>
             <Plasteel>180</Plasteel>
             <KOTOR_AlloyDurasteel>120</KOTOR_AlloyDurasteel>
-            <ABF_Thing_Synstruct_CoolantPack>4</ABF_Thing_Synstruct_CoolantPack>
-            <ABF_Thing_Synstruct_LubricantPack>3</ABF_Thing_Synstruct_LubricantPack>
+            <!-- <ABF_Thing_Synstruct_CoolantPack>4</ABF_Thing_Synstruct_CoolantPack> -->
+            <!-- <ABF_Thing_Synstruct_LubricantPack>3</ABF_Thing_Synstruct_LubricantPack> -->
             <KOTOR_UltraComponent>4</KOTOR_UltraComponent>
             <ComponentIndustrial>22</ComponentIndustrial>
             <ComponentSpacer>10</ComponentSpacer>
@@ -461,8 +461,8 @@
             <Steel>120</Steel>
             <Plasteel>80</Plasteel>
 			<KOTOR_UltraComponent>2</KOTOR_UltraComponent>
-			<ABF_Thing_Synstruct_CoolantPack>2</ABF_Thing_Synstruct_CoolantPack>
-            <ABF_Thing_Synstruct_LubricantPack>3</ABF_Thing_Synstruct_LubricantPack>
+			<!-- <ABF_Thing_Synstruct_CoolantPack>2</ABF_Thing_Synstruct_CoolantPack> -->
+            <!-- <ABF_Thing_Synstruct_LubricantPack>3</ABF_Thing_Synstruct_LubricantPack> -->
             <ComponentIndustrial>22</ComponentIndustrial>
             <ComponentSpacer>3</ComponentSpacer>
         </costList>
@@ -495,8 +495,8 @@
             <Chemfuel>40</Chemfuel>
             <Steel>120</Steel>
             <Plasteel>60</Plasteel>
-            <ABF_Thing_Synstruct_CoolantPack>2</ABF_Thing_Synstruct_CoolantPack>
-            <ABF_Thing_Synstruct_LubricantPack>3</ABF_Thing_Synstruct_LubricantPack>
+            <!-- <ABF_Thing_Synstruct_CoolantPack>2</ABF_Thing_Synstruct_CoolantPack> -->
+            <!-- <ABF_Thing_Synstruct_LubricantPack>3</ABF_Thing_Synstruct_LubricantPack> -->
             <KOTOR_UltraComponent>2</KOTOR_UltraComponent>
             <ComponentIndustrial>20</ComponentIndustrial>
             <ComponentSpacer>3</ComponentSpacer>
@@ -535,8 +535,8 @@
         <costList>
             <Steel>80</Steel>
             <Plasteel>50</Plasteel>
-            <ABF_Thing_Synstruct_CoolantPack>2</ABF_Thing_Synstruct_CoolantPack>
-            <ABF_Thing_Synstruct_LubricantPack>1</ABF_Thing_Synstruct_LubricantPack>
+            <!-- <ABF_Thing_Synstruct_CoolantPack>2</ABF_Thing_Synstruct_CoolantPack> -->
+            <!-- <ABF_Thing_Synstruct_LubricantPack>1</ABF_Thing_Synstruct_LubricantPack> -->
             <KOTOR_UltraComponent>4</KOTOR_UltraComponent>
             <ComponentIndustrial>16</ComponentIndustrial>
             <ComponentSpacer>8</ComponentSpacer>
@@ -570,8 +570,8 @@
         <costList>
             <KOTOR_AlloyDurasteel>80</KOTOR_AlloyDurasteel>
             <Plasteel>80</Plasteel>
-            <ABF_Thing_Synstruct_CoolantPack>2</ABF_Thing_Synstruct_CoolantPack>
-            <ABF_Thing_Synstruct_LubricantPack>2</ABF_Thing_Synstruct_LubricantPack>
+            <!-- <ABF_Thing_Synstruct_CoolantPack>2</ABF_Thing_Synstruct_CoolantPack> -->
+            <!-- <ABF_Thing_Synstruct_LubricantPack>2</ABF_Thing_Synstruct_LubricantPack> -->
             <KOTOR_UltraComponent>4</KOTOR_UltraComponent>
             <ComponentIndustrial>22</ComponentIndustrial>
             <ComponentSpacer>8</ComponentSpacer>
@@ -605,8 +605,8 @@
         <costList>
             <KOTOR_AlloyDurasteel>100</KOTOR_AlloyDurasteel>
             <Plasteel>200</Plasteel>
-            <ABF_Thing_Synstruct_CoolantPack>4</ABF_Thing_Synstruct_CoolantPack>
-            <ABF_Thing_Synstruct_LubricantPack>2</ABF_Thing_Synstruct_LubricantPack>
+            <!-- <ABF_Thing_Synstruct_CoolantPack>4</ABF_Thing_Synstruct_CoolantPack> -->
+            <!-- <ABF_Thing_Synstruct_LubricantPack>2</ABF_Thing_Synstruct_LubricantPack> -->
             <KOTOR_UltraComponent>12</KOTOR_UltraComponent>
             <ComponentIndustrial>22</ComponentIndustrial>
             <ComponentSpacer>16</ComponentSpacer>
@@ -646,8 +646,8 @@
         <costList>
             <Plasteel>280</Plasteel>
             <KOTOR_AlloyDurasteel>180</KOTOR_AlloyDurasteel>
-            <ABF_Thing_Synstruct_CoolantPack>6</ABF_Thing_Synstruct_CoolantPack>
-            <ABF_Thing_Synstruct_LubricantPack>6</ABF_Thing_Synstruct_LubricantPack>
+            <!-- <ABF_Thing_Synstruct_CoolantPack>6</ABF_Thing_Synstruct_CoolantPack> -->
+            <!-- <ABF_Thing_Synstruct_LubricantPack>6</ABF_Thing_Synstruct_LubricantPack> -->
             <KOTOR_UltraComponent>4</KOTOR_UltraComponent>
             <ComponentIndustrial>28</ComponentIndustrial>
             <ComponentSpacer>10</ComponentSpacer>
@@ -680,8 +680,8 @@
         <costList>
             <Plasteel>240</Plasteel>
             <KOTOR_AlloyDurasteel>200</KOTOR_AlloyDurasteel>
-            <ABF_Thing_Synstruct_CoolantPack>6</ABF_Thing_Synstruct_CoolantPack>
-            <ABF_Thing_Synstruct_LubricantPack>3</ABF_Thing_Synstruct_LubricantPack>
+            <!-- <ABF_Thing_Synstruct_CoolantPack>6</ABF_Thing_Synstruct_CoolantPack> -->
+            <!-- <ABF_Thing_Synstruct_LubricantPack>3</ABF_Thing_Synstruct_LubricantPack> -->
             <KOTOR_UltraComponent>6</KOTOR_UltraComponent>
             <ComponentIndustrial>24</ComponentIndustrial>
             <ComponentSpacer>12</ComponentSpacer>
@@ -720,8 +720,8 @@
         <costList>
             <KOTOR_AlloyDurasteel>180</KOTOR_AlloyDurasteel>
             <Plasteel>100</Plasteel>
-            <ABF_Thing_Synstruct_CoolantPack>4</ABF_Thing_Synstruct_CoolantPack>
-            <ABF_Thing_Synstruct_LubricantPack>4</ABF_Thing_Synstruct_LubricantPack>
+            <!-- <ABF_Thing_Synstruct_CoolantPack>4</ABF_Thing_Synstruct_CoolantPack> -->
+            <!-- <ABF_Thing_Synstruct_LubricantPack>4</ABF_Thing_Synstruct_LubricantPack> -->
             <KOTOR_UltraComponent>10</KOTOR_UltraComponent>
             <ComponentIndustrial>26</ComponentIndustrial>
             <ComponentSpacer>12</ComponentSpacer>

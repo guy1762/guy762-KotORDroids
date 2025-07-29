@@ -263,20 +263,29 @@
                     <!-- <li><key>ABF_Need_Synstruct_Lubricant</key><value>0.5</value></li> -->
                 <!-- </artificialNeeds> -->
 				<artificialNeeds>
-                    <li>
-                        <key>ABF_Need_Synstruct_Coolant</key>
+                    <!-- <li> -->
+                        <!-- <key>ABF_Need_Synstruct_Coolant</key> -->
+                        <!-- <value> -->
+                            <!-- <maximumCapacity>3</maximumCapacity> -->
+                            <!-- <fallRatePerDay>0.025</fallRatePerDay> -->
+                            <!-- <fallRateIsPercentage>false</fallRateIsPercentage> -->
+                        <!-- </value> -->
+                    <!-- </li> -->
+                    <!-- <li> -->
+                        <!-- <key>ABF_Need_Synstruct_Lubricant</key> -->
+                        <!-- <value> -->
+                            <!-- <maximumCapacity>6</maximumCapacity> -->
+                            <!-- <fallRatePerDay>0.05</fallRatePerDay> -->
+                            <!-- <fallRateIsPercentage>false</fallRateIsPercentage> -->
+                        <!-- </value> -->
+                    <!-- </li> -->
+					<li>
+                        <key>ABF_Need_Synstruct_Components</key>
                         <value>
-                            <maximumCapacity>3</maximumCapacity>
-                            <fallRatePerDay>0.025</fallRatePerDay>
+                            <maximumCapacity>1</maximumCapacity>
+                            <fallRatePerDay>0.01112</fallRatePerDay>
                             <fallRateIsPercentage>false</fallRateIsPercentage>
-                        </value>
-                    </li>
-                    <li>
-                        <key>ABF_Need_Synstruct_Lubricant</key>
-                        <value>
-                            <maximumCapacity>6</maximumCapacity>
-                            <fallRatePerDay>0.05</fallRatePerDay>
-                            <fallRateIsPercentage>false</fallRateIsPercentage>
+                            <displayFallRateAsPerYear>true</displayFallRateAsPerYear>
                         </value>
                     </li>
                     <li><key>ABF_Need_Synstruct_Energy</key><value></value></li>
@@ -347,8 +356,8 @@
 			</li>
 		</tools>
 		<recipes>
-            <li>ABF_Recipe_Synstruct_InjectCoolant</li>
-            <li>ABF_Recipe_Synstruct_InjectLubricant</li>
+            <li>ABF_Recipe_Synstruct_SupplyComponents</li>
+            <li>ABF_Recipe_Synstruct_InjectChemfuel</li>
         </recipes>
 		<butcherProducts>
             <Steel>25</Steel>
@@ -446,20 +455,29 @@
                     <!-- <li><key>ABF_Need_Synstruct_Lubricant</key><value>1</value></li> -->
                 <!-- </artificialNeeds> -->
 				<artificialNeeds>
-                    <li>
-                        <key>ABF_Need_Synstruct_Coolant</key>
+                    <!-- <li> -->
+                        <!-- <key>ABF_Need_Synstruct_Coolant</key> -->
+                        <!-- <value> -->
+                            <!-- <maximumCapacity>6</maximumCapacity> -->
+                            <!-- <fallRatePerDay>0.025</fallRatePerDay> -->
+                            <!-- <fallRateIsPercentage>false</fallRateIsPercentage> -->
+                        <!-- </value> -->
+                    <!-- </li> -->
+                    <!-- <li> -->
+                        <!-- <key>ABF_Need_Synstruct_Lubricant</key> -->
+                        <!-- <value> -->
+                            <!-- <maximumCapacity>9</maximumCapacity> -->
+                            <!-- <fallRatePerDay>0.1</fallRatePerDay> -->
+                            <!-- <fallRateIsPercentage>false</fallRateIsPercentage> -->
+                        <!-- </value> -->
+                    <!-- </li> -->
+					<li>
+                        <key>ABF_Need_Synstruct_Components</key>
                         <value>
-                            <maximumCapacity>6</maximumCapacity>
-                            <fallRatePerDay>0.025</fallRatePerDay>
+                            <maximumCapacity>1</maximumCapacity>
+                            <fallRatePerDay>0.01112</fallRatePerDay>
                             <fallRateIsPercentage>false</fallRateIsPercentage>
-                        </value>
-                    </li>
-                    <li>
-                        <key>ABF_Need_Synstruct_Lubricant</key>
-                        <value>
-                            <maximumCapacity>9</maximumCapacity>
-                            <fallRatePerDay>0.1</fallRatePerDay>
-                            <fallRateIsPercentage>false</fallRateIsPercentage>
+                            <displayFallRateAsPerYear>true</displayFallRateAsPerYear>
                         </value>
                     </li>
                     <li><key>ABF_Need_Synstruct_Energy</key><value></value></li>
