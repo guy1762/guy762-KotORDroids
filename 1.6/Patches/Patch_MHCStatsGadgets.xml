@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationAdd">
+	  <xpath>Defs/ThingDef[defName="guy762_glove_automation"]/equippedStatOffsets</xpath>
+	  <order>Append</order>
+	  <value>
+		<ABF_Stat_Artificial_SurgerySuccessChance>0.2</ABF_Stat_Artificial_SurgerySuccessChance>
+		<ABF_Stat_Artificial_TendQuality>0.2</ABF_Stat_Artificial_TendQuality>
+		<ABF_Stat_Artificial_TendSpeed>0.2</ABF_Stat_Artificial_TendSpeed>
+	  </value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+	  <xpath>Defs/ThingDef[defName="guy762_glove_automation_adv"]/equippedStatOffsets</xpath>
+	  <order>Append</order>
+	  <value>
+		<ABF_Stat_Artificial_SurgerySuccessChanceFactor>0.4</ABF_Stat_Artificial_SurgerySuccessChanceFactor>
+		<ABF_Stat_Artificial_TendQuality>0.4</ABF_Stat_Artificial_TendQuality>
+		<ABF_Stat_Artificial_TendSpeed>0.4</ABF_Stat_Artificial_TendSpeed>
+	  </value>
+	</Operation>
+	
+	
+	
+	
+	
+	
+	<Operation Class="PatchOperationAdd">
+	  <xpath>Defs/ThingDef[defName="guy762_belt_czerka"]/equippedStatOffsets</xpath>
+	  <order>Append</order>
+	  <value>
+		<ABF_Stat_Artificial_SurgerySuccessChance>0.2</ABF_Stat_Artificial_SurgerySuccessChance>
+		<ABF_Stat_Artificial_TendQuality>0.2</ABF_Stat_Artificial_TendQuality>
+		<ABF_Stat_Artificial_TendSpeed>0.2</ABF_Stat_Artificial_TendSpeed>
+	  </value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+	  <xpath>Defs/ThingDef[defName="guy762_belt_czerka"]/costList</xpath>
+	  <order>Append</order>
+	  <value>
+		<guy762_repairkit>3</guy762_repairkit>
+	  </value>
+	</Operation>
+	
+	
+	
+	
+	
+	<Operation Class="PatchOperationAdd">
+	  <xpath>Defs/ThingDef[defName="guy762_belt_exchange"]/equippedStatOffsets</xpath>
+	  <order>Append</order>
+	  <value>
+		<ABF_Stat_Artificial_SurgerySuccessChance>0.3</ABF_Stat_Artificial_SurgerySuccessChance>
+		<ABF_Stat_Artificial_TendQuality>0.3</ABF_Stat_Artificial_TendQuality>
+		<ABF_Stat_Artificial_TendSpeed>0.3</ABF_Stat_Artificial_TendSpeed>
+	  </value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+	  <xpath>Defs/ThingDef[defName="guy762_belt_exchange"]/costList</xpath>
+	  <order>Append</order>
+	  <value>
+		<guy762_repairkit_adv>3</guy762_repairkit_adv>
+	  </value>
+	</Operation>
+	
+	
+	
+	
+	
+	<Operation Class="PatchOperationAdd">
+	  <xpath>Defs/ThingDef[defName="guy762_belt_calrissian"]/equippedStatOffsets</xpath>
+	  <order>Append</order>
+	  <value>
+		<ABF_Stat_Artificial_SurgerySuccessChance>0.5</ABF_Stat_Artificial_SurgerySuccessChance>
+		<ABF_Stat_Artificial_TendQuality>0.5</ABF_Stat_Artificial_TendQuality>
+		<ABF_Stat_Artificial_TendSpeed>0.5</ABF_Stat_Artificial_TendSpeed>
+	  </value>
+	</Operation>
+	
+	
+	
+	
+	
+	<!--Operation Class="PatchOperationAdd">
+	  <xpath>Defs/HediffDef[defName="guy762_ImplantHediffPkg_skills"]/stages/li[1]/statOffsets</xpath>
+	  <order>Append</order>
+	  <value>
+		<ABF_Stat_Artificial_SurgerySuccessChance>0.1</ABF_Stat_Artificial_SurgerySuccessChance>
+		<ABF_Stat_Artificial_TendQuality>0.1</ABF_Stat_Artificial_TendQuality>
+		<ABF_Stat_Artificial_TendSpeed>0.1</ABF_Stat_Artificial_TendSpeed>
+	  </value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+	  <xpath>Defs/HediffDef[defName="guy762_ImplantHediffImp_skills"]/stages/li[1]/statOffsets</xpath>       going back to MayRequire tags for these so it doesn't interfere with the new EBSG patch
+	  <order>Append</order>
+	  <value>
+		<ABF_Stat_Artificial_SurgerySuccessChance>0.2</ABF_Stat_Artificial_SurgerySuccessChance>
+		<ABF_Stat_Artificial_TendQuality>0.2</ABF_Stat_Artificial_TendQuality>
+		<ABF_Stat_Artificial_TendSpeed>0.2</ABF_Stat_Artificial_TendSpeed>
+	  </value>
+	</Operation>
+	
+	<Operation Class="PatchOperationAdd">
+	  <xpath>Defs/HediffDef[defName="guy762_ImplantHediffSys_skills"]/stages/li[1]/statOffsets</xpath>    also lmao I forgot to make a patch for the D-Package
+	  <order>Append</order>
+	  <value>
+		<ABF_Stat_Artificial_SurgerySuccessChance>0.4</ABF_Stat_Artificial_SurgerySuccessChance>
+		<ABF_Stat_Artificial_TendQuality>0.4</ABF_Stat_Artificial_TendQuality>
+		<ABF_Stat_Artificial_TendSpeed>0.4</ABF_Stat_Artificial_TendSpeed>
+	  </value>
+	</Operation-->
+	
+	
+	
+
+
+</Patch>
