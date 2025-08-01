@@ -12,7 +12,7 @@
 	</Operation>
 	
 	<Operation Class="PatchOperationAdd">
-	  <xpath>Defs/ModularWeapons2.ModularPartsDef[defName="guy762_KotORpartHelmetTech_interface"]/statModifiers</xpath>
+	  <xpath>Defs/ModularWeapons2.ModularPartsDef[defName="guy762_KotORpartHelmetTech_interface"]/effects/equippedStatOffsets</xpath>
 	  <order>Append</order>
 	  <value>
 		<ABF_Stat_Artificial_SurgerySuccessChance>0.2</ABF_Stat_Artificial_SurgerySuccessChance>
