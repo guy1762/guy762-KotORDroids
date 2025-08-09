@@ -280,7 +280,8 @@
 		<defName>KotORDroidBad_KM1HMD</defName>
 		<label>excavation droid</label>
 		<race>guy762_DroidRace_KM1HMD</race>
-		<combatPower>150</combatPower>
+		<combatPower>200</combatPower>
+		<maxPerGroup>3</maxPerGroup>
 		<itemQuality>Normal</itemQuality>
 		<apparelMoney>7500~15000</apparelMoney>
 		<apparelTags>
