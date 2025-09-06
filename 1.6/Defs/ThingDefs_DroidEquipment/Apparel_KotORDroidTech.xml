@@ -40,6 +40,7 @@
 		<li>KotORDroidUpgrade_hacking</li>
 		<li>KotORDroidUpgrade_computers</li>
 		<li>SWKotORSpecificDroidTech_ExchangePlus6Hacking3ResearchSoftware</li>
+		<li>SWCPDroidApparelRestrictionTag_SoftwareTechSlot</li>
 	  </tags>
 	  <bodyPartGroups>
         <li>guy762BG_Droid_Tech_software</li>
@@ -100,6 +101,8 @@
 	  <tags>
 		<li>KotORDroidUpgrade_T3M4</li>
 		<li>SWKotORSpecificDroidTech_T3M4RepairHardware</li>
+		<li>SWCPDroidApparelRestrictionTag_T3M4Only</li>
+		<!-- <li>SWCPDroidApparelRestrictionTag_HardwareTechSlot</li> -->
 	  </tags>
 	  <bodyPartGroups>
         <li>guy762BG_Droid_Tech_hardware</li>

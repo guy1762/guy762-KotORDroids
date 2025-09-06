@@ -49,6 +49,8 @@
 	  <tags>
 		<li>KotORDroidUpgrade_hk</li>
 		<li>SWCPSpecificDroidTech_HK47Sensor</li>
+		<li>SWCPDroidApparelRestrictionTag_HK47Only</li>
+		<!-- <li>SWCPDroidApparelRestrictionTag_SensorTechSlot</li> -->
 	  </tags>
 	  <bodyPartGroups>
         <li>Eyes</li>
@@ -105,6 +107,8 @@
 	  <tags>
 		<li>KotORDroidUpgrade_goto</li>
 		<li>SWCPSpecificDroidTech_G0T0Sensor</li>
+		<li>SWCPDroidApparelRestrictionTag_G0T0Only</li>
+		<!-- <li>SWCPDroidApparelRestrictionTag_SensorTechSlot</li> -->
 	  </tags>
 	  <bodyPartGroups>
         <li>Eyes</li>

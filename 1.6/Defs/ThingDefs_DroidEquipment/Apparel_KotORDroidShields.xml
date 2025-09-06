@@ -22,6 +22,7 @@
 		<li>KotORDroidShield_t1</li>
 		<li>KotORDroidShield_weak</li>
 		<li>SWKotORSpecificDroidGadget_MarkIEnergyShield</li>
+		<li>SWCPDroidApparelRestrictionTag_ShieldSlot</li>
 	  </tags>
     </apparel>
 	<tradeTags>
@@ -74,6 +75,7 @@
 		<li>KotORDroidShield_t1</li>
 		<li>KotORDroidShield_weak</li>
 		<li>SWKotORSpecificDroidGadget_MarkIEnvironmentShield</li>
+		<li>SWCPDroidApparelRestrictionTag_ShieldSlot</li>
 	  </tags>
     </apparel>
 	<tradeTags>
@@ -128,6 +130,7 @@
 		<li>KotORDroidShield_melee</li>
 		<li>SaV_DroidShield_gladiator</li>
 		<li>SWKotORSpecificDroidGadget_MeleeShield</li>
+		<li>SWCPDroidApparelRestrictionTag_ShieldSlot</li>
 	  </tags>
     </apparel>
 	<tradeTags>
@@ -184,6 +187,7 @@
 		<li>KotORDroidShield_t2</li>
 		<li>KotORDroidShield_mid</li>
 		<li>SWKotORSpecificDroidGadget_MarkIIEnergyShield</li>
+		<li>SWCPDroidApparelRestrictionTag_ShieldSlot</li>
 	  </tags>
     </apparel>
 	<tradeTags>
@@ -236,6 +240,7 @@
 		<li>KotORDroidShield_t2</li>
 		<li>KotORDroidShield_mid</li>
 		<li>SWKotORSpecificDroidGadget_MarkIIEnvironmentShield</li>
+		<li>SWCPDroidApparelRestrictionTag_ShieldSlot</li>
 	  </tags>
     </apparel>
 	<tradeTags>
@@ -290,6 +295,7 @@
 		<li>KotORDroidShield_deflector</li>
 		<li>SaV_DroidShield_gladiator</li>
 		<li>SWKotORSpecificDroidGadget_DeflectorShield</li>
+		<li>SWCPDroidApparelRestrictionTag_ShieldSlot</li>
 	  </tags>
     </apparel>
 	<tradeTags>
@@ -350,6 +356,7 @@
 		<li>KotORDroidShield_t3</li>
 		<li>KotORDroidShield_strong</li>
 		<li>SWKotORSpecificDroidGadget_MarkIIIEnergyShield</li>
+		<li>SWCPDroidApparelRestrictionTag_ShieldSlot</li>
 	  </tags>
     </apparel>
 	<tradeTags>
@@ -402,6 +409,7 @@
 		<li>KotORDroidShield_t3</li>
 		<li>KotORDroidShield_advdeflector</li>
 		<li>SWKotORSpecificDroidGadget_AdvDeflectorShield</li>
+		<li>SWCPDroidApparelRestrictionTag_ShieldSlot</li>
 	  </tags>
     </apparel>
 	<tradeTags>
@@ -459,6 +467,7 @@
 		<li>KotORDroidShield_rare</li>
 		<li>KotORDroidShield_t3</li>
 		<li>SWKotORSpecificDroidGadget_IonShield</li>
+		<li>SWCPDroidApparelRestrictionTag_ShieldSlot</li>
 	  </tags>
     </apparel>
 	<tradeTags>
@@ -510,6 +519,7 @@
 		<li>KotORDroidShield_rare</li>
 		<li>KotORDroidShield_t3</li>
 		<li>SWKotORSpecificDroidGadget_BaragwinEnergyShield</li>
+		<li>SWCPDroidApparelRestrictionTag_ShieldSlot</li>
 	  </tags>
     </apparel>
 	<tradeTags>
@@ -593,6 +603,8 @@
 	  <tags>
 		<li>KotORDroidUpgrade_T3M4</li>
 		<li>SWKotORSpecificDroidGadget_T3M4RenewableShield</li>
+		<li>SWCPDroidApparelRestrictionTag_T3M4Only</li>
+		<li>SWCPDroidApparelRestrictionTag_ShieldSlot</li>
 	  </tags>
     </apparel>
 	<tradeTags>
